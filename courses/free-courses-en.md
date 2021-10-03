@@ -424,6 +424,7 @@
 * [Javascript course](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD) - Hitesh Choudhary
 * [Javascript Essentials](https://www.udemy.com/javascript-essentials/) - Lawrence Turton (Udemy)
 * [Javascript30](https://javascript30.com) - Wesbos
+* [JavaScript Tutorial for Beginners - Full Course in 8 Hours](https://www.youtube.com/watch?v=Qqx_wzMmFeA) - Clever Programmer (YouTube)
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) -  Beau Carnes, freeCodeCamp.org (YouTube)
 * [Learn modern JavaScript](https://scrimba.com/learn/es6) - Beau Carnes (Scrimba) (Scrimba account *required*)
