@@ -5,6 +5,7 @@
 * [C++](#cpp)
 * [Data Structures](#DataStructures)
 * [DevOps](#DevOps)
+* [Git](#git)
 * [Java](#Java)
 * [Javascript](#Javascript)
   * [Next.js]((#NextJS)
@@ -47,7 +48,12 @@
 
 ### DevOps
 
-*[DevOps Training Videos in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3sxlq9ugoq1ipNFP7tus5Gd) - edureka! Hindi
+* [DevOps Training Videos in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3sxlq9ugoq1ipNFP7tus5Gd) - edureka! Hindi
+
+
+### Git
+
+* [Complete Git Tutorials For Beginners In Hindi](https://www.codewithharry.com/videos/complete-git-tutorials-in-hindi-1) - Harry
 
 
 ### Java
